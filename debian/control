@@ -1,0 +1,14 @@
+Source: breeze-l-gtk-theme
+Section: lxqt
+Priority: optional
+Maintainer: Arjen Balfoort <arjenbalfoort@hotmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.5.0
+
+Package: breeze-l-gtk-theme
+Architecture: all
+Depends: ${misc:Depends}, breeze-gtk-theme
+Breaks: gtk3-engines-breeze-l (<< 0.0.9)
+Replaces: gtk3-engines-breeze-l (<< 0.0.9)
+Description: Breeze Gtk theme for SolydL.
+ Theme for breeze-gtk-theme including xfwm4 window decoration.
