@@ -1,3 +1,9 @@
+breeze-l-gtk-theme (0.0.2) stable; urgency=low
+
+  * Fix pointing to Breeze-Dark-X in gtk-dark.css
+
+ -- Arjen Balfoort <arjenbalfoort@hotmail.com>  Sun, 03 Mar 2024 14:53:28 +0100
+
 breeze-l-gtk-theme (0.0.1) stable; urgency=low
 
   * Initial version
